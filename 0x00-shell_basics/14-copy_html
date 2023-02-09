@@ -1,2 +1,2 @@
 #!/bin/bash
-rsync -av --ignore-existing *.html ../
+find . -name "*.html" -print0 | rsync -av --files-from=- --from0 ../
