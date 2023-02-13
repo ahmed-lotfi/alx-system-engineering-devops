@@ -16,4 +16,6 @@ Task 7. it is a good file that cuts iron without making a noise
 that script will create new file name exactly as \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) and Best School is written inside it.
 Task 8. Save current state of directory
 This script will print the result of the command line ls -la inside the filenamed ls_cwd_content if it exists and if not will create it first.
+Task 9. Duplicate last line
+This script will duplicate the last line of the file named iacta
 
