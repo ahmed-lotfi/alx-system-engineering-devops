@@ -24,3 +24,5 @@ Task 11. Dont's just count your directories, make your directories count
 this script will count the number of directories and subdirectories in the current directory
 Task 12. what's new
 this script will diesplay the 10 newest files in the directory one file per line and sorted from the newest to the oldest
+Task 13. being unique is better than being perfect 
+this script will diplay the unique words only that appears once
