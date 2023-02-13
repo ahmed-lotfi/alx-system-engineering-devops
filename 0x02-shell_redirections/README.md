@@ -8,4 +8,5 @@ Task 3. What about 2?
 This script will print the content of the /etc/passwd file and also the content of the file /etc/hosts
 Task 4. Last lines of a file
 this script will print the last 10 lines where added to the file named passwd inside the directory etc
- 
+Task 5. i'd prefer the first 10 lines of /etc/passwd
+this script will print the first 10  lines of the file named passwd inside the directory etc 
