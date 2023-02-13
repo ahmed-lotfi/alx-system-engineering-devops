@@ -22,3 +22,5 @@ Task 10. No more javascript
 this script will delete all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
 Task 11. Dont's just count your directories, make your directories count 
 this script will count the number of directories and subdirectories in the current directory
+Task 12. what's new
+this script will diesplay the 10 newest files in the directory one file per line and sorted from the newest to the oldest
