@@ -20,4 +20,5 @@ Task 9. Duplicate last line
 This script will duplicate the last line of the file named iacta
 Task 10. No more javascript 
 this script will delete all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
-
+Task 11. Dont's just count your directories, make your directories count 
+this script will count the number of directories and subdirectories in the current directory
