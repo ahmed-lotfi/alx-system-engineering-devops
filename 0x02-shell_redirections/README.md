@@ -28,3 +28,5 @@ Task 13. being unique is better than being perfect
 this script will diplay the unique words only that appears once
 Task 14. It must be in that file
 this script will diplay lines containing the pattern root from file /etc/passwd
+Task 15. count that word
+Display the number of lines that contain the pattern “bin” in the file /etc/passwd
