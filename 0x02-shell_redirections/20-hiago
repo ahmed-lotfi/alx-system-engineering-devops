@@ -1,2 +1,2 @@
 #!/bin/bash
-tr -d ucC
+tr -d c C
