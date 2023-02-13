@@ -12,3 +12,5 @@ Task 5. i'd prefer the first 10 lines of /etc/passwd
 this script will print the first 10  lines of the file named passwd inside the directory etc
 Task 6. Line #2
 This script will print the third line of the file named iacta supposing it'sworking directory. 
+Task 7. it is a good file that cuts iron without making a noise
+that script will create new file name exactly as \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) and Best School is written inside it.
