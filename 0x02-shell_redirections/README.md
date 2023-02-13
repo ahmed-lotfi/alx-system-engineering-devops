@@ -9,4 +9,6 @@ This script will print the content of the /etc/passwd file and also the content 
 Task 4. Last lines of a file
 this script will print the last 10 lines where added to the file named passwd inside the directory etc
 Task 5. i'd prefer the first 10 lines of /etc/passwd
-this script will print the first 10  lines of the file named passwd inside the directory etc 
+this script will print the first 10  lines of the file named passwd inside the directory etc
+Task 6. Line #2
+This script will print the third line of the file named iacta supposing it'sworking directory. 
