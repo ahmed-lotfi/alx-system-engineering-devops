@@ -42,3 +42,5 @@ Task 20. Without c you would live in hiago
 Create a script that removes all letters c and C from input.
 Task 21. esrever
 Write a script that reverse its input.
+Task 22. DJ cut killer
+Write a script that displays all users and their home directories, sorted by users.
