@@ -40,3 +40,5 @@ Task 19. A to Z
 Replace all characters A and c from input to Z and e respectively.
 Task 20. Without c you would live in hiago
 Create a script that removes all letters c and C from input.
+Task 21. esrever
+Write a script that reverse its input.
