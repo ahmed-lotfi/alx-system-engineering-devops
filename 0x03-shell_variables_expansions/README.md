@@ -16,3 +16,6 @@ Task 7. global variable
 This script creates a new global variable named BEST with the value School
 Task 8. Every addition to true knowledge is an addition to human power 
 Script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
+Task 9. Divide and rule
+Script that prints the result of POWER divided by DIVIDE, followed by a new line.
+POWER and DIVIDE are environment variables
