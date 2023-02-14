@@ -10,3 +10,5 @@ Task 4. Global variables
 Create a script that lists environment variables.
 Task 5. Local variables
 Create a script that lists all local variables and environment variables, and functions.
+Task 6. Local variable
+This script creates a new local variable named BEST with the value School
