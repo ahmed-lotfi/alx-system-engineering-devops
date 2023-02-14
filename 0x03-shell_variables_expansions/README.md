@@ -14,3 +14,5 @@ Task 6. Local variable
 This script creates a new local variable named BEST with the value School
 Task 7. global variable
 This script creates a new global variable named BEST with the value School
+Task 8. Every addition to true knowledge is an addition to human power 
+Script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
