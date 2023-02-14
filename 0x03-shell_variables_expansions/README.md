@@ -28,4 +28,6 @@ Task 11. There are 10 types of people in the world -- Those who understand binar
 script that converts a number from base 2 to base 10.
 
 The number in base 2 is stored in the environment variable BINARY
-The script should display the number in base 10, followed by a new lin
+The script should display the number in base 10, followed by a new line
+Task 12. Combination
+script that prints all possible combinations of two letters, except oo
